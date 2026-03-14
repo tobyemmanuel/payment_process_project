@@ -42,3 +42,11 @@ After downloading project to your PC, use this command below to setup the projec
 - Venv\Scripts\Activate (on windows only)
 - source venv/bin/activate (on mac only)
 - pip install -r requirements.txt
+
+
+External API calls
+Blueprint
+Caching
+email service
+database
+background queues
